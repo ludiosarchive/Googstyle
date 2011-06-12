@@ -2,7 +2,7 @@ Googstyle overview
 ==================
 
 Googstyle contains CSS and images extracted from Closure Library,
-converted (but not really) to .scss (Sass - http://sass-lang.com/)
+converted to .scss (Sass - http://sass-lang.com/)
 
 Googstyle is used by DemosMinerva: https://github.com/ludios/DemosMinerva
 
