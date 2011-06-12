@@ -12,7 +12,7 @@ setup(
 	author="Ivan Kozik",
 	author_email="ivan@ludios.org",
 	classifiers=[
-		'Development Status :: 3 - Beta',
+		'Development Status :: 4 - Beta',
 		'Operating System :: OS Independent',
 		'Intended Audience :: Developers',
 		'Topic :: Internet :: WWW/HTTP',
